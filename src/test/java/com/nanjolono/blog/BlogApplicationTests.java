@@ -1,10 +1,10 @@
-package com.nanjolono.client;
+package com.nanjolono.blog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ClientApplicationTests {
+class BlogApplicationTests {
 
     @Test
     void contextLoads() {
